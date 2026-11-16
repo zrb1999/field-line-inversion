@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Code for \"Remote sensing of the inner-magnetospheric magnetic field from field-line geometry: a 2D Hamiltonian inversion method\""
+type: software
+version: 1.0.0
+date-released: 2026-11-16
+license: MIT
+authors:
+  - family-names: Zhu
+    given-names: Rongbin
+    orcid: "https://orcid.org/0009-0009-7388-9836"
+    affiliation: "Laboratory of Space Environment Exploration, National Space Science Center, Chinese Academy of Sciences, Beijing, China"
+  - family-names: Zhang
+    given-names: Xianguo
+    affiliation: "Laboratory of Space Environment Exploration, National Space Science Center, Chinese Academy of Sciences, Beijing, China"
