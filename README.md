@@ -96,4 +96,4 @@ If you use this code, please cite the software and the paper:
 > Zhu, R., & Zhang, X. (2026). *Code for "Remote sensing of the
 > inner-magnetospheric magnetic field from field-line geometry: a 2D
 > Hamiltonian inversion method"* (Version 1.0.0) [Computer software]. Zenodo.
-> https://doi.org/10.5281/zenodo.XXXXXXX
+> https://doi.org/10.5281/zenodo.24276208
